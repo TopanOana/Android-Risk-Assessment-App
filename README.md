@@ -63,5 +63,5 @@ We implemented a grouping algorithm to identify sets of inter-communicating apps
 The best-performing ML model was integrated into an Android application using ONNX. This application allows users to assess the security risks posed by installed apps and their interactions.
 
 ## Conclusion
-This project highlights the potential security threats posed by seemingly benign applications and provides a robust tool for detecting and mitigating these risks. Feel free to explore, test, and contribute!
+This project highlights the potential security threats posed by seemingly benign applications and provides a robust tool for detecting and mitigating these risks. 
 
